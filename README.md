@@ -14,6 +14,7 @@ Core Competencies: Data Cleaning, Feature Engineering, Ordinal & One-Hot Encodin
 Kaggle House Prices ML Pipeline — End-to-end regression model, feature scaling, and custom missing value imputation.
 
 📫 Let's Connect & Hire Me
+
 Upwork: Hire Me on Upwork
 
 Fiverr: Order on Fiverr
